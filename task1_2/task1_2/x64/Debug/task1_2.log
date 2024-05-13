@@ -1,0 +1,3 @@
+﻿  task1_2.cpp
+D:\c_plus_plus\task1_2\task1_2.cpp(7,14): warning C4305: инициализация: усечение из "double" в "float"
+  task1_2.vcxproj -> D:\c_plus_plus\task1_2\x64\Debug\task1_2.exe
