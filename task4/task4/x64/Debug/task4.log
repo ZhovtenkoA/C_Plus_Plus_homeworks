@@ -1,3 +1,2 @@
 ﻿  task4.cpp
-C:\Users\Zhowt\source\repos\task4.cpp(150,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   task4.vcxproj -> D:\c_plus_plus\task4\x64\Debug\task4.exe

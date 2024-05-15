@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\c_plus_plus\\task4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zhowt\\Downloads\\Telegram Desktop\\Lesson4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0CDAB9F6-9FAE-43D8-B112-2D05F049AF30}|task4.vcxproj|C:\\Users\\Zhowt\\source\\repos\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +18,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lesson4.cpp",
-              "DocumentMoniker": "C:\\Users\\Zhowt\\Downloads\\Telegram Desktop\\Lesson4.cpp",
-              "ToolTip": "C:\\Users\\Zhowt\\Downloads\\Telegram Desktop\\Lesson4.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEYAAAAVAAAA",
+              "Title": "task4.cpp",
+              "DocumentMoniker": "C:\\Users\\Zhowt\\source\\repos\\task4.cpp",
+              "ToolTip": "C:\\Users\\Zhowt\\source\\repos\\task4.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAJsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-15T11:11:15.2Z",
+              "WhenOpened": "2024-05-15T17:38:00.897Z",
               "EditorCaption": ""
             }
           ]
