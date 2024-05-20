@@ -1,0 +1,3 @@
+﻿  task5.cpp
+C:\Users\Zhowt\source\repos\task5.cpp(74,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  task5.vcxproj -> D:\c_plus_plus\task5\x64\Debug\task5.exe
