@@ -1,5 +1,5 @@
 ﻿  task7.cpp
-C:\Users\Zhowt\source\repos\task7.cpp(45,1): warning C4715: return_maximal: значение возвращается не при всех путях выполнения
-C:\Users\Zhowt\source\repos\task7.cpp(106,1): warning C4715: is_even: значение возвращается не при всех путях выполнения
-C:\Users\Zhowt\source\repos\task7.cpp(99,1): warning C4715: is_even: значение возвращается не при всех путях выполнения
+D:\c_plus_plus\task7\task7.cpp(45,1): warning C4715: return_maximal: значение возвращается не при всех путях выполнения
+D:\c_plus_plus\task7\task7.cpp(99,1): warning C4715: is_even: значение возвращается не при всех путях выполнения
+D:\c_plus_plus\task7\task7.cpp(106,1): warning C4715: is_even: значение возвращается не при всех путях выполнения
   task7.vcxproj -> D:\c_plus_plus\task7\x64\Debug\task7.exe

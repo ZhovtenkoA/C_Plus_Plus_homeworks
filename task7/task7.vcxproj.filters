@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Zhowt\source\repos\task7.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="task7.cpp">
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
