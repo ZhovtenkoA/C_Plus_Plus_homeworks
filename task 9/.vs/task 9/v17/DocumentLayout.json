@@ -5,6 +5,33 @@
     {
       "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\task9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:task9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zhowt\\AppData\\Local\\Temp\\a75ac49a-bb73-4570-8d65-228a8cc9690f_Lesson9.zip.90f\\Lesson9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|D:\\c_plus_plus\\task 9\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E052B1C3-674F-44B2-9422-D95092779E91}|task 9.vcxproj|solutionrelative:person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +41,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "human.cpp",
+              "DocumentMoniker": "D:\\c_plus_plus\\task 9\\human.cpp",
+              "RelativeDocumentMoniker": "human.cpp",
+              "ToolTip": "D:\\c_plus_plus\\task 9\\human.cpp",
+              "RelativeToolTip": "human.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T19:11:15.784Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "human.h",
+              "DocumentMoniker": "D:\\c_plus_plus\\task 9\\human.h",
+              "RelativeDocumentMoniker": "human.h",
+              "ToolTip": "D:\\c_plus_plus\\task 9\\human.h",
+              "RelativeToolTip": "human.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-30T19:07:42.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customer.cpp",
+              "DocumentMoniker": "D:\\c_plus_plus\\task 9\\customer.cpp",
+              "RelativeDocumentMoniker": "customer.cpp",
+              "ToolTip": "D:\\c_plus_plus\\task 9\\customer.cpp",
+              "RelativeToolTip": "customer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T18:30:15.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customer.h",
+              "DocumentMoniker": "D:\\c_plus_plus\\task 9\\customer.h",
+              "RelativeDocumentMoniker": "customer.h",
+              "ToolTip": "D:\\c_plus_plus\\task 9\\customer.h",
+              "RelativeToolTip": "customer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-30T18:16:37.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,10 +107,47 @@
               "RelativeDocumentMoniker": "task9.cpp",
               "ToolTip": "D:\\c_plus_plus\\task 9\\task9.cpp",
               "RelativeToolTip": "task9.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T11:03:01.259Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.cpp",
+              "DocumentMoniker": "D:\\c_plus_plus\\task 9\\person.cpp",
+              "RelativeDocumentMoniker": "person.cpp",
+              "ToolTip": "D:\\c_plus_plus\\task 9\\person.cpp",
+              "RelativeToolTip": "person.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T18:01:56.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "person.h",
+              "DocumentMoniker": "D:\\c_plus_plus\\task 9\\person.h",
+              "RelativeDocumentMoniker": "person.h",
+              "ToolTip": "D:\\c_plus_plus\\task 9\\person.h",
+              "RelativeToolTip": "person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-30T17:58:06.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson9.cpp",
+              "DocumentMoniker": "C:\\Users\\Zhowt\\AppData\\Local\\Temp\\a75ac49a-bb73-4570-8d65-228a8cc9690f_Lesson9.zip.90f\\Lesson9.cpp",
+              "ToolTip": "C:\\Users\\Zhowt\\AppData\\Local\\Temp\\a75ac49a-bb73-4570-8d65-228a8cc9690f_Lesson9.zip.90f\\Lesson9.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T17:27:58.552Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             }
           ]
         }
