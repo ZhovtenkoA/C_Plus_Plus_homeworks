@@ -1,0 +1,4 @@
+Name: Apple
+Price: 10
+Weight: 5
+
