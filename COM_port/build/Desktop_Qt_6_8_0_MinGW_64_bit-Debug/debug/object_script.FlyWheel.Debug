@@ -1,0 +1,11 @@
+debug/DataDisplayWidget.o
+debug/ModbusRtuMaster.o
+debug/SerialPortSettingsWidget.o
+debug/main.o
+debug/mainwindow.o
+debug/modbus_test_widget.o
+debug/moc_DataDisplayWidget.o
+debug/moc_ModbusRtuMaster.o
+debug/moc_SerialPortSettingsWidget.o
+debug/moc_mainwindow.o
+debug/moc_modbus_test_widget.o

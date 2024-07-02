@@ -1,0 +1,9 @@
+{
+    "files": [
+        "form.cpp",
+        "form.h",
+        "form.ui",
+        "main.py",
+        "mainwiget.py"
+    ]
+}

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>mail_gmail_22737.ico</file>
+    </qresource>
+</RCC>

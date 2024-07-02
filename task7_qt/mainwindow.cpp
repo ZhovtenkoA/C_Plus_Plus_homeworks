@@ -1,0 +1,48 @@
+#include "mainwindow.h"
+#include "ui_mainwindow.h"
+
+MainWindow::MainWindow(QWidget *parent)
+    : QMainWindow(parent)
+    , ui(new Ui::MainWindow)
+{
+    ui->setupUi(this);
+
+
+    QDir dir("Images");
+    QStringList filenames = dir.entryList();
+    qreal w = ui->image_label->width(), h = ui->image_label->height();
+
+    for(auto& filename: filenames){
+        if(filename.endsWith(".png")){
+            QPixmap image(dir.absoluteFilePath(filename));
+            qDebug() << dir.absoluteFilePath(filename);
+            images.append(image.scaled(w, h, Qt::KeepAspectRatio, Qt::SmoothTransformation));
+        }
+    }
+
+    //ui->image->setPixmap(image.scaledToWidth(w, Qt::SmoothTransformation));
+    if(images.size() > 0) ui->image_label->setPixmap(images[0]);
+    else ui->statusbar->showMessage("Images not found!");
+}
+
+MainWindow::~MainWindow()
+{
+    delete ui;
+}
+
+void MainWindow::on_prev_btn_clicked()
+{
+    if(index - 1 >= 0) index--;
+    ui->image_label->setPixmap(images[index]);
+    if (index == 0) index = images.size() - 1;
+
+}
+
+
+void MainWindow::on_next_btn_clicked()
+{
+    if(index + 1 < images.size()) index++;
+    ui->image_label->setPixmap(images[index]);
+    if (index == images.size() - 1) index = 0;
+}
+
