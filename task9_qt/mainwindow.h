@@ -36,7 +36,7 @@ private:
     Ui::MainWindow *ui;
 
     QSqlDatabase db;
-    QSqlTableModel* table_model , *users_model;
+    QSqlTableModel* table_model;
     qint32 row = -1;
 };
 #endif // MAINWINDOW_H

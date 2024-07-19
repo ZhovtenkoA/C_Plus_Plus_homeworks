@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_plus_plus\\lesson22s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C5E24-ACDE-4F02-BF24-7A1D8F3C521C}|lesson22s.vcxproj|D:\\c_plus_plus\\lesson22s\\lesson22s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF0C5E24-ACDE-4F02-BF24-7A1D8F3C521C}|lesson22s.vcxproj|solutionrelative:lesson22s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson22s.cpp",
+              "DocumentMoniker": "D:\\c_plus_plus\\lesson22s\\lesson22s.cpp",
+              "RelativeDocumentMoniker": "lesson22s.cpp",
+              "ToolTip": "D:\\c_plus_plus\\lesson22s\\lesson22s.cpp",
+              "RelativeToolTip": "lesson22s.cpp",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAlwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T07:50:42.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
